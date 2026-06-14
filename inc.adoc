@@ -1,0 +1,7 @@
+= T
+
+include::/etc/passwd[]
+
+include::../../../../../../etc/passwd[]
+
+include::/etc/hostname[]
