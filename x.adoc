@@ -1,8 +1,0 @@
-= T
-pass:[<img src=x onerror=alert(1)>]
-
-+++<script>alert(2)</script>+++
-
-++++
-<img src=y onerror=alert(3)>
-++++
