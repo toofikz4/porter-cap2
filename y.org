@@ -1,0 +1,6 @@
+#+TITLE: T
+@@html:<img src=x onerror=alert(1)>@@
+
+#+BEGIN_EXPORT html
+<script>alert(2)</script>
+#+END_EXPORT
