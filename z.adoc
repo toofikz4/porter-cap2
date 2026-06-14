@@ -1,9 +1,0 @@
-= T
-
-link:javascript:alert(1)[click]
-
-pass:[<a href="javascript:alert(1)">x</a>]
-
-pass:[<svg onload=alert(1)>]
-
-pass:[<iframe src="javascript:alert(1)">]
